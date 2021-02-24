@@ -2,7 +2,7 @@
   "name": "detect-inapp",
   "version": "1.1.0",
   "description": "detect browser or in-app information for mobile",
-  "main": "lib/inapp.js",
+  "main": "inapp.js",
   "repository": "git@github.com:f2etw/detect-inapp.git",
   "author": "yuting1987@gmail.com",
   "license": "MIT",
